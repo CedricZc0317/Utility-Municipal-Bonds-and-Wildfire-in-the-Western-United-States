@@ -1,2 +1,2 @@
 # Utility-Municipal-Bonds-and-Wildfire-in-the-Western-United-States
-This study examines how escalating wildfire risk affects access to capital for public utility providers by analyzing its influence on municipal bond pricing, utilizing Panel Regression Model and LLM.
+This study examines how escalating wildfire risk affects access to capital for public utility providers by analyzing its influence on municipal bond pricing, utilizing Panel Regression Model and LLM. Even though P-values are not significant due to limited data points, the result has already shown an implication to asset managers and investors. The result was also presented to Russell Investment Fixed Income and Sustainability Team.
